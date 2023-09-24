@@ -6,6 +6,7 @@ set showmatch " Shows matching brackets
 set ruler " Always shows location in file (line#)
 set smarttab " Autotabs for certain code
 set shiftwidth=4
+set number
 
 ++ arguments in bash shell
 "$1" "$2" ...
